@@ -1,0 +1,17 @@
+1) Дан масив чисел (положительных, отрицательных и в перемешку)
+Найти max, min, sum
+Залить на github решение?
+Нельзя использовать методы массива, а только циклы for, while*
+Примеры массивов:
+[3,0,-5,1,44,-12,3,0,0,1,2,-3,-3,2,1,4,-2-3-1]
+[-1,-8,-2]
+[1,7,3]
+[1,undefined,3,5,-3]
+[1,NaN,3,5,-3]
+
+2) Find in array: sum, min and max, replace min and max
+Create function which will return all versions in object
+
+3) Create function which will return function with callback
+
+4) Функция, которая будет принимать массив и ретурнить обьект, свойства будут индексы, а ключи - значения под этим индексом в массиве

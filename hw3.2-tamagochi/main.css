@@ -1,0 +1,59 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+html,body {
+	width: 100%;height: 100%;
+	background-color: #;
+	font-size:12px;
+	font-family:Arial;
+	overflow:hidden;
+}
+.main{}
+.being{
+	margin:30px;
+	height:200px;
+	width:200px;
+	background:url(img/being.png) center no-repeat;
+	outline:10px solid #054d88;
+	/*position:relative;left:200px;top:100px;*/
+}
+.needs{}
+.need{
+	width:100px;
+	background:red;
+	margin:5px 10px;
+	border-radius:4px;
+	padding:3px 3px;
+}
+.presently{
+	float:left;
+	margin:10px 25px;
+	width:120px;
+}
+.hunger{}
+.higiene{}
+.rested{}
+.fun{}
+.ennui{}
+.social{}
+.pover{}
+.actions{
+	padding:115px 0px;
+}
+.button{
+	display:block;
+	padding:6px 10px;
+	background:#777;
+	color:write;
+	cursor:pointer; 
+	width:100%;
+	border-radius:4px;
+}
+.button:hover{
+	background:#999;
+}
+.button:active{
+	background:#aaa;
+}
+*{outline:1px solid orange;}
